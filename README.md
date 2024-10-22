@@ -99,10 +99,6 @@
 </table> -->
 
 **Here are a few things I've picked up along my learning journey.**
-
-<div style="display: flex;">
-  <div style="flex: 7; padding: 10px;">
-    <!-- Content for the first column -->
     
   ### **Languages:**
 
@@ -165,12 +161,8 @@
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) \
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-  </div>
-<div style="flex: 3; padding: 10px;">
-    <!-- Content for the second column -->
+
   <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" style="max-width: 100%;">
-  </div>
-</div>
 
 
 
