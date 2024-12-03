@@ -38,7 +38,7 @@
   </picture>
 
   <!-- <img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=vue-dark&hide_border=false' width='421'> -->
-  <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="30%" width="30%">
+  <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="40%" width="40%">
 </div>
 
 
