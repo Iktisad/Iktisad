@@ -171,6 +171,18 @@
         <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma">
       </td>
     </tr>
+   <tr>
+      <td>Testing</td>
+      <td>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
+        <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest">
+        <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha">
+        <img src="https://img.shields.io/badge/Puppeteer-white.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" alt="puppeteer">
+      </td>
+    </tr>
+
+  
+   
     <tr>
       <td>Cloud</td>
       <td>
