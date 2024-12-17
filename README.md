@@ -193,6 +193,14 @@
         <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
       </td>
     </tr>
+     <tr>
+      <td>Operating Systems</td>
+      <td>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS">
+      </td>
+    </tr>
     <!-- Additional sections like Testing, CI/CD, Cloud Platforms, etc., can be added here following the same structure -->
   </tbody>
 </table>
