@@ -1,8 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Hello World! I am Iktisad.
-
- <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /> <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /> <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" />
  
 <img width="6912" height="3456" alt="image" src="https://github.com/user-attachments/assets/0dd51a3c-2998-419c-ad82-3715f722bf8e" />
 
@@ -15,6 +13,8 @@
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 ### Checkout my portfolio
 [iktisad.vercel.app](https://iktisad.vercel.app)
+
+ <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /> <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /> <img width="200" height="250" alt="image" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" />
 
 ### 👥️ &nbsp;**Connect with me over**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
