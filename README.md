@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/b8d806b7-957c-4236-899b-fadfe9984353" /> Hello World! I am Iktisad.
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b8d806b7-957c-4236-899b-fadfe9984353" /> Hello World! I am Iktisad.
 <img width="6912" height="3456" alt="image" src="https://github.com/user-attachments/assets/0dd51a3c-2998-419c-ad82-3715f722bf8e" />
 
 ## 👨🏻‍💻 &nbsp;**About Me** 
