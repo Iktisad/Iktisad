@@ -10,6 +10,8 @@
 👀 &nbsp;I specialize in Building Scalable Applications, System Design, and Cloud Architecture, always seeking innovative solutions. \
 💞️ &nbsp;Open to collaboration on projects that promote growth, learning, and technical excellence across a variety of technologies. \
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
+### Checkout my portfolio
+[!Click here](https://iktisad.vercel.app)
 
 ### 👥️ &nbsp;**Connect with me over**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
