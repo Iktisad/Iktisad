@@ -22,6 +22,8 @@
 
 <a href="https://www.digitalocean.com/?refcode=6ba6aa9034aa&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
+[perplexity](https://plex.it/referrals/ADQ4GGOW)
+
 ---
 
 ## 📊 GitHub Stats:
