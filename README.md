@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats:
 
 <div style='display:flex'>
-  <picture>
+  <!-- <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Iktisad&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -39,7 +39,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Iktisad&show_icons=true" />
-  </picture>
+  </picture> -->
 
   <img src="https://ghstats.dev/api/card?username=iktisad&theme=ocean&hide_title=true&hide=stars%2Cavg%2Cgrade%2Cfollowers%2Cweek" alt="GitHub Stats Card" />
   <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="40%" width="40%">
