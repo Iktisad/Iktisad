@@ -41,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Iktisad&show_icons=true" />
   </picture>
 
-  <!-- <img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=vue-dark&hide_border=false' width='421'> -->
+ <img src="https://ghstats.dev/api/card?username=iktisad&theme=ocean&hide_title=true&hide=stars%2Cavg%2Cgrade%2Cfollowers%2Cweek" alt="GitHub Stats Card" />
   <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="40%" width="40%">
 </div>
 
